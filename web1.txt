@@ -1,0 +1,9 @@
+nav{
+    background-color: rgb(6, 6, 6);
+    font-size: larger;
+    font-weight: bolder;
+}
+.navbar .navbar-nav .nav-link {
+    color: rgb(245, 253, 250);
+    margin-left: 70px;
+ }
